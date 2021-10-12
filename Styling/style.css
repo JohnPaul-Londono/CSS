@@ -1,0 +1,32 @@
+h1{
+    background-color: black;
+    margin: 0px;
+    padding: 5px;
+    padding-left:15px;
+    font-family: Arial, Helvetica, sans-serif ;
+}
+#white{
+    color: white;
+}
+#aqua{
+    color:aqua;
+}
+#CP{
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:18pt;
+    text-align: center;
+    color: white;
+    background-color: #663399;
+    padding: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+#CU{
+    font-size: 18px;
+    text-align: right;
+    color: #5475ac;
+    background-color: #9fc5f8;
+    padding: 5px;
+    margin-top: 5px;
+}
